@@ -60,6 +60,10 @@ img {
 .border {
   border-bottom: 1px solid #ececec;
 }
+.flex-box {
+  display: flex;
+  align-items: center;
+}
 .nav {
   display: flex;
   align-items: center;
